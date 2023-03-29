@@ -7,4 +7,5 @@ The Tree
 
 
 The Parse Tree
-![image](https://user-images.githubusercontent.com/66239439/228659615-68dbe223-34df-40f8-9243-19ff08d78028.png)
+![WhatsApp Image 2023-03-29 at 21 25 47](https://user-images.githubusercontent.com/66239439/228659845-b2b0794c-a550-4e58-ab2c-1f61484c0307.jpg)
+
